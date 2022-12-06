@@ -13,3 +13,5 @@
 Для оптимизации гиперпараметров были использованы следующи фреймворки:
 
 - [Optuna](https://optuna.org/)
+
+Эксперименты: [cs_go_contest.ipynb](https://github.com/kikikita/CS_GO_test/tree/main/notebooks)- ноутбук c проведенными экспериментами (находится в папке 'notebooks')
