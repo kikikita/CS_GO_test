@@ -15,7 +15,7 @@
 - [Optuna](https://optuna.org/)
 
 ## Эксперименты
-- [cs_go_contest.ipynb](https://github.com/kikikita/CS_GO_test/blob/main/notebooks/cs_go_contest.ipynb) - ноутбук c проведенными экспериментами (находится в папке 'notebooks')
+- [Ноутбук с экспериментами](https://github.com/kikikita/CS_GO_test/blob/main/notebooks/cs_go_contest.ipynb) - ноутбук c проведенными экспериментами (находится в папке 'notebooks')
 
 ## Результаты экспериментов:
 - [Предсказания](https://github.com/kikikita/CS_GO_test/tree/main/predictions) - 3 csv файла с предсказаниями от трех разных моделей.
